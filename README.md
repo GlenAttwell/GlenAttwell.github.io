@@ -7,7 +7,7 @@ I mainly work in the .Net space with C# but am also well versed with Angular (2.
 I speak English, Afrikaans and Dutch 🙂
 
 - ## 🔭 Current projects/clients
-    - Currently I'm working as a software developer for [Entelect](http://entelect.nl/) based at [National Institute for Public Health and Environment (Rijksinstituut voor Volksgezondheid en Milieu (RIVM))](https://rivm.nl/)
+    - Currently I'm working as a software developer for [Entelect](http://entelect.nl/) based at [National Institute for Public Health and Environment (Rijksinstituut voor Volksgezondheid en Milieu (RIVM))](https://rivm.nl/) 🇳🇱
     - Previous Clients:
         -   [PeriPlus](https://www.periplus.nl/nl/home/) 🇳🇱
         -   [Hollard Insurance](https://www.hollard.co.za/) 🇿🇦
